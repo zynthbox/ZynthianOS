@@ -24,6 +24,7 @@ apt-get -y install git
 
 # Setup Personal Access Token to clone from private repos
 git config --global url."https://$ZYNTHIANOS_ZYNTHBOX_PAT@github.com/zynthbox".insteadOf "https://github.com/zynthbox"
+sudo -u pi git config --global url."https://$ZYNTHIANOS_ZYNTHBOX_PAT@github.com/zynthbox".insteadOf "https://github.com/zynthbox"
 
 # Prepare dirs
 sudo -u pi mkdir -p /home/pi/build
