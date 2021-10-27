@@ -8,6 +8,8 @@
 set -x
 alias bash='bash -x'
 
+git config --global url."https://$ZYNTHBOX_PAT@github.com/zynthbox".insteadOf "https://github.com/zynthbox"
+
 # Source error handling, leave this in place
 source /common.sh
 install_cleanup_trap
