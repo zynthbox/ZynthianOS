@@ -1,0 +1,9 @@
+[$Version]
+update_info=kwin.upd:replace-scalein-with-scale
+
+[Compositing]
+OpenGLIsUnsafe=true
+
+
+[Desktops]
+Number=1
