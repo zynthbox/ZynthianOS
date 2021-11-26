@@ -1,0 +1,36 @@
+<group>
+ampeg_attack=0.012
+ampeg_decay=0.026
+ampeg_release=0.29
+cutoff=488.3
+pitcheg_attack=0.021
+pitcheg_decay=0.086
+pitcheg_release=0.699
+fileg_attack=0.021
+fileg_decay=0.086
+fileg_release=0.699
+fileg_depth=4800
+
+<region> sample=Samples\Pwn5ths\PWM 5THS1.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=-48
+pan=-100
+
+<region> sample=Samples\Pwn5ths\PWM 5THS1.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=-53
+pan=100
+
+<region> sample=Samples\Pwn5ths\PWM 5THS1.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+lovel=0
+hivel=0
+tune=-50
+
+

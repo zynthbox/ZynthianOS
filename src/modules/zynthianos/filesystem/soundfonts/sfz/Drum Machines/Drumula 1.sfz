@@ -1,0 +1,105 @@
+<group>
+pitch_keytrack=0
+tune=66
+ampeg_decay=0.07
+ampeg_release=2.6
+fillfo_freq=5.916
+amplfo_freq=5.916
+
+<region> sample=Samples\Drumula 1\DRUMUKICK 1.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMURIM 1.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMUSD 1.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMUCLAP 1.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMUSD 1.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMUTOM AL.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMUCHH 1.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMUTOM AL.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMUCHH 1.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMUTOM AM.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMUOHH 1.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMUTOM AM.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMUTOM AH.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMUSYNCYM.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMUTOM AH.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Drumula 1\DRUMURIDE.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+
+

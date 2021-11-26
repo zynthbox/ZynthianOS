@@ -1,0 +1,29 @@
+<group>
+ampeg_attack=0.03
+ampeg_decay=4.058
+ampeg_release=0.361
+cutoff=136.1
+pitcheg_attack=0.01
+pitcheg_decay=0.062
+pitcheg_sustain=77.2
+pitcheg_release=1.683
+fileg_attack=0.01
+fileg_decay=0.062
+fileg_sustain=77.2
+fileg_release=1.683
+fileg_depth=9600
+
+<region> sample=Samples\BowString\BSTR1.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+transpose=-12
+tune=-9
+
+<region> sample=Samples\BowString\BSTR1.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=-14
+
+

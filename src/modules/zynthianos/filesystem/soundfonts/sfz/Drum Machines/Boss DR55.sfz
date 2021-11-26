@@ -1,0 +1,33 @@
+<group>
+pitch_keytrack=0
+ampeg_decay=3.67
+ampeg_release=0.069
+fillfo_freq=0.034
+amplfo_freq=0.034
+
+<region> sample=Samples\Boss DR55\DR55 kick.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Boss DR55\DR55 snare.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Boss DR55\DR55 rimshot.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Boss DR55\DR55 hi hat.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+

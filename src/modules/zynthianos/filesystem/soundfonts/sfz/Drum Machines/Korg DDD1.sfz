@@ -1,0 +1,152 @@
+<group>
+pitch_keytrack=0
+ampeg_release=0.069
+fillfo_freq=0.034
+amplfo_freq=0.034
+
+<region> sample=Samples\Korg DDD1\DDD1 bass1.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 bass2.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 snare1.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 snare2.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 tom3.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 tom2.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 tom1.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+pan=69.8
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 crash.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+pan=29.8
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 cowbell.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-19.8
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 rimshot.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 clhh1.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 clhh1.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+ampeg_decay=41.403
+
+<region> sample=Samples\Korg DDD1\DDD1 ophh1.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 ride.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-39.8
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 cabasa.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+loop_mode=no_loop
+pan=39.8
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 claps.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 clhh2.wav
+lokey=54
+hikey=54
+pitch_keycenter=60
+loop_mode=no_loop
+pan=69.8
+ampeg_decay=3.67
+
+<region> sample=Samples\Korg DDD1\DDD1 clhh2.wav
+lokey=56
+hikey=56
+pitch_keycenter=60
+loop_mode=no_loop
+pan=69.8
+ampeg_decay=41.403
+
+<region> sample=Samples\Korg DDD1\DDD1 ophh2.wav
+lokey=58
+hikey=58
+pitch_keycenter=60
+loop_mode=no_loop
+pan=69.8
+ampeg_decay=3.67
+
+

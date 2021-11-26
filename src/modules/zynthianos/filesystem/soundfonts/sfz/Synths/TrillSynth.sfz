@@ -1,0 +1,28 @@
+<group>
+ampeg_decay=6.302
+ampeg_sustain=15.4882
+ampeg_release=5.057
+cutoff=19997.1
+pitcheg_attack=0.021
+pitcheg_decay=0.086
+pitcheg_sustain=72.4
+pitcheg_release=0.699
+fileg_attack=0.021
+fileg_decay=0.086
+fileg_sustain=72.4
+fileg_release=0.699
+
+<region> sample=Samples\TrillSynth\FILTER TRILL.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+transpose=7
+tune=1
+
+<region> sample=Samples\TrillSynth\PWM 11.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=-28
+
+

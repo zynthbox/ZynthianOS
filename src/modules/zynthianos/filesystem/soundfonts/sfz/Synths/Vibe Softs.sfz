@@ -1,0 +1,21 @@
+<group>
+ampeg_release=0.87
+fillfo_freq=3.001
+amplfo_freq=3.001
+
+<region> sample=Samples\Vibe Softs\BIGCBASS 21.wav
+lokey=12
+hikey=61
+pitch_keycenter=52
+
+<region> sample=Samples\Vibe Softs\BIGCBASS 31.wav
+lokey=62
+hikey=77
+pitch_keycenter=69
+
+<region> sample=Samples\Vibe Softs\101 A BS 1.wav
+lokey=78
+hikey=127
+pitch_keycenter=83
+
+

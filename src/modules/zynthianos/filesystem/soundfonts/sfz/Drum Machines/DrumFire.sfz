@@ -1,0 +1,25 @@
+<region> sample=Samples\DrumFire\Drumfire Hat 1.wav
+key=42
+
+<region> sample=Samples\DrumFire\Drumfire Hat 2.wav
+key=44
+
+<region> sample=Samples\DrumFire\Drumfire Hat 3.wav
+key=46
+
+<region> sample=Samples\DrumFire\Drumfire Kick 1.wav
+key=36
+
+<region> sample=Samples\DrumFire\Drumfire Snare 1.wav
+key=38
+
+<region> sample=Samples\DrumFire\Drumfire Tom 1.wav
+key=50
+
+<region> sample=Samples\DrumFire\Drumfire Tom 2.wav
+key=48
+
+<region> sample=Samples\DrumFire\Drumfire Tom 3.wav
+key=47
+
+

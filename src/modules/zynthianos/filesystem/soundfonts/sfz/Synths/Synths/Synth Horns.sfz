@@ -1,0 +1,117 @@
+<group>
+ampeg_release=0.129
+
+<region> sample=Samples\Synth Horns\0315.wav
+lokey=0
+hikey=41
+pitch_keycenter=36
+lovel=0
+hivel=90
+
+<region> sample=Samples\Synth Horns\06.wav
+lokey=42
+hikey=53
+pitch_keycenter=48
+lovel=0
+hivel=90
+
+<region> sample=Samples\Synth Horns\09.wav
+lokey=54
+hikey=65
+pitch_keycenter=60
+lovel=0
+hivel=90
+
+<region> sample=Samples\Synth Horns\10.wav
+lokey=66
+hikey=77
+pitch_keycenter=72
+lovel=0
+hivel=90
+
+<region> sample=Samples\Synth Horns\13.wav
+lokey=78
+hikey=127
+pitch_keycenter=84
+lovel=0
+hivel=90
+
+
+<group>
+ampeg_release=0.129
+
+<region> sample=Samples\Synth Horns\0115.wav
+lokey=0
+hikey=41
+pitch_keycenter=36
+lovel=60
+hivel=120
+
+<region> sample=Samples\Synth Horns\0411.wav
+lokey=42
+hikey=53
+pitch_keycenter=48
+lovel=60
+hivel=120
+
+<region> sample=Samples\Synth Horns\08.wav
+lokey=54
+hikey=65
+pitch_keycenter=60
+lovel=60
+hivel=120
+
+<region> sample=Samples\Synth Horns\12.wav
+lokey=66
+hikey=77
+pitch_keycenter=72
+lovel=60
+hivel=120
+
+<region> sample=Samples\Synth Horns\15.wav
+lokey=78
+hikey=127
+pitch_keycenter=84
+lovel=60
+hivel=120
+
+
+<group>
+ampeg_release=0.129
+
+<region> sample=Samples\Synth Horns\0215.wav
+lokey=0
+hikey=41
+pitch_keycenter=36
+lovel=110
+hivel=127
+
+<region> sample=Samples\Synth Horns\051.wav
+lokey=42
+hikey=53
+pitch_keycenter=48
+lovel=110
+hivel=127
+
+<region> sample=Samples\Synth Horns\07.wav
+lokey=54
+hikey=65
+pitch_keycenter=60
+lovel=110
+hivel=127
+
+<region> sample=Samples\Synth Horns\11.wav
+lokey=66
+hikey=77
+pitch_keycenter=72
+lovel=110
+hivel=127
+
+<region> sample=Samples\Synth Horns\14.wav
+lokey=78
+hikey=127
+pitch_keycenter=84
+lovel=110
+hivel=127
+
+

@@ -1,0 +1,26 @@
+<group>
+ampeg_attack=0.312
+ampeg_decay=0.29
+ampeg_release=1.683
+cutoff=562.9
+pitcheg_decay=0.403
+pitcheg_release=2.918
+fileg_decay=0.403
+fileg_release=2.918
+fileg_depth=12000
+
+<region> sample=Samples\Ethereal\RICH WAVE 6.wav
+lokey=24
+hikey=127
+pitch_keycenter=84
+tune=-8
+pan=-100
+
+<region> sample=Samples\Ethereal\RICH WAVE 6.wav
+lokey=24
+hikey=127
+pitch_keycenter=84
+tune=-20
+pan=100
+
+

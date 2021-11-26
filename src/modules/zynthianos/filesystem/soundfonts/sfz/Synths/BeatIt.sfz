@@ -1,0 +1,37 @@
+<group>
+ampeg_decay=13.611
+ampeg_sustain=0.001
+ampeg_release=16.961
+cutoff=95.4
+pitcheg_attack=0.002
+pitcheg_decay=2.342
+pitcheg_sustain=0
+pitcheg_release=6.302
+fileg_attack=0.002
+fileg_decay=2.342
+fileg_sustain=0
+fileg_release=6.302
+fileg_depth=12000
+
+<region> sample=Samples\BeatIt\SW 121.wav
+lokey=24
+hikey=127
+pitch_keycenter=60
+tune=7
+pan=-100
+
+<region> sample=Samples\BeatIt\SW 121.wav
+lokey=24
+hikey=127
+pitch_keycenter=60
+tune=-6
+pan=100
+
+<region> sample=Samples\BeatIt\SW 121.wav
+lokey=24
+hikey=127
+pitch_keycenter=60
+lovel=0
+hivel=0
+
+

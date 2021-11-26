@@ -1,0 +1,34 @@
+<group>
+ampeg_release=3.839
+
+<region> sample=Samples\Extrange Voices\05.wav
+lokey=0
+hikey=44
+pitch_keycenter=42
+
+<region> sample=Samples\Extrange Voices\012.wav
+lokey=45
+hikey=50
+pitch_keycenter=48
+
+<region> sample=Samples\Extrange Voices\06.wav
+lokey=51
+hikey=56
+pitch_keycenter=54
+
+<region> sample=Samples\Extrange Voices\022.wav
+lokey=57
+hikey=65
+pitch_keycenter=60
+
+<region> sample=Samples\Extrange Voices\032.wav
+lokey=66
+hikey=77
+pitch_keycenter=72
+
+<region> sample=Samples\Extrange Voices\041.wav
+lokey=78
+hikey=127
+pitch_keycenter=84
+
+

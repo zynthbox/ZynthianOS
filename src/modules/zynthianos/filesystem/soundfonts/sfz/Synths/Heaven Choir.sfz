@@ -1,0 +1,23 @@
+<group>
+ampeg_decay=41.427
+ampeg_sustain=0.001
+ampeg_release=2.677
+fillfo_freq=3.001
+amplfo_freq=3.001
+
+<region> sample=Samples\Heaven Choir\ARP BASS 1 11.wav
+lokey=12
+hikey=61
+pitch_keycenter=52
+
+<region> sample=Samples\Heaven Choir\ARP BASS 1 21.wav
+lokey=62
+hikey=76
+pitch_keycenter=69
+
+<region> sample=Samples\Heaven Choir\ARP BASS 1 31.wav
+lokey=77
+hikey=127
+pitch_keycenter=83
+
+

@@ -1,0 +1,44 @@
+<group>
+ampeg_release=0.29
+cutoff=20
+pitcheg_release=21.124
+fileg_release=21.124
+fileg_depth=11040
+
+<region> sample=Samples\RiseString\RISE.wav
+lokey=24
+hikey=127
+pitch_keycenter=71
+tune=-23
+ampeg_attack=0.039
+ampeg_decay=5.644
+pitcheg_decay=0.561
+pitcheg_sustain=68.8
+fileg_decay=0.561
+fileg_sustain=68.8
+
+<region> sample=Samples\RiseString\WAVE.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+transpose=-12
+tune=-2
+pan=-80
+ampeg_attack=3.24
+ampeg_decay=0.626
+pitcheg_decay=3.634
+fileg_decay=3.634
+
+<region> sample=Samples\RiseString\WAVE.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+transpose=-12
+tune=-15
+pan=80
+ampeg_attack=3.24
+ampeg_decay=0.626
+pitcheg_decay=3.634
+fileg_decay=3.634
+
+

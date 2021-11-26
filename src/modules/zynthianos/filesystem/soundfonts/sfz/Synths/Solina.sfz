@@ -1,0 +1,31 @@
+<group>
+ampeg_attack=0.285
+ampeg_decay=29.395
+ampeg_sustain=87.0964
+ampeg_release=2.613
+cutoff=19997.1
+pitcheg_attack=0.002
+pitcheg_decay=0.26
+pitcheg_sustain=64.6
+pitcheg_release=4.058
+fileg_attack=0.002
+fileg_decay=0.26
+fileg_sustain=64.6
+fileg_release=4.058
+fileg_depth=12000
+
+<region> sample=Samples\Solina\SOLINA.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=-24
+pan=-100
+
+<region> sample=Samples\Solina\SOLINA.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=-33
+pan=100
+
+

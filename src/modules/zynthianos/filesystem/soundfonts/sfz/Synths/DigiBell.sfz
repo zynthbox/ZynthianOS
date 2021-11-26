@@ -1,0 +1,36 @@
+<group>
+ampeg_attack=0.002
+ampeg_decay=13.611
+ampeg_sustain=0.001
+ampeg_release=12.189
+cutoff=58
+pitcheg_decay=10.922
+pitcheg_sustain=0
+pitcheg_release=6.302
+fileg_decay=10.922
+fileg_sustain=0
+fileg_release=6.302
+fileg_depth=12000
+
+<region> sample=Samples\DigiBell\SW 2.wav
+lokey=24
+hikey=127
+pitch_keycenter=60
+transpose=12
+
+<region> sample=Samples\DigiBell\SW 2.wav
+lokey=24
+hikey=127
+pitch_keycenter=60
+transpose=-12
+tune=-1
+
+<region> sample=Samples\DigiBell\SW 13.wav
+lokey=24
+hikey=127
+pitch_keycenter=60
+lovel=0
+hivel=0
+transpose=-12
+
+

@@ -1,0 +1,79 @@
+<group>
+ampeg_release=0.129
+
+<region> sample=Samples\Classic Seq\02.wav
+lokey=0
+hikey=37
+pitch_keycenter=36
+
+<region> sample=Samples\Classic Seq\07.wav
+lokey=38
+hikey=41
+pitch_keycenter=40
+
+<region> sample=Samples\Classic Seq\11.wav
+lokey=42
+hikey=45
+pitch_keycenter=44
+
+<region> sample=Samples\Classic Seq\03.wav
+lokey=46
+hikey=49
+pitch_keycenter=48
+
+<region> sample=Samples\Classic Seq\08.wav
+lokey=50
+hikey=53
+pitch_keycenter=52
+
+<region> sample=Samples\Classic Seq\12.wav
+lokey=54
+hikey=57
+pitch_keycenter=56
+
+<region> sample=Samples\Classic Seq\04.wav
+lokey=58
+hikey=62
+pitch_keycenter=60
+
+<region> sample=Samples\Classic Seq\13.wav
+lokey=63
+hikey=67
+pitch_keycenter=66
+
+<region> sample=Samples\Classic Seq\01.wav
+lokey=68
+hikey=70
+pitch_keycenter=69
+
+<region> sample=Samples\Classic Seq\05.wav
+lokey=71
+hikey=73
+pitch_keycenter=72
+
+<region> sample=Samples\Classic Seq\09.wav
+lokey=74
+hikey=77
+pitch_keycenter=76
+
+<region> sample=Samples\Classic Seq\14.wav
+lokey=78
+hikey=81
+pitch_keycenter=80
+
+<region> sample=Samples\Classic Seq\06.wav
+lokey=82
+hikey=85
+pitch_keycenter=84
+
+<region> sample=Samples\Classic Seq\10.wav
+lokey=86
+hikey=89
+pitch_keycenter=88
+
+<region> sample=Samples\Classic Seq\15.wav
+lokey=90
+hikey=127
+pitch_keycenter=92
+
+

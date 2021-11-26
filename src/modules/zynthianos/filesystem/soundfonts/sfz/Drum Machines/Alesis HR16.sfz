@@ -1,0 +1,451 @@
+<group>
+pitch_keytrack=0
+ampeg_decay=14.304
+ampeg_release=8
+fillfo_freq=5.094
+amplfo_freq=5.094
+
+<region> sample=Samples\Alesis HR16\HR16 24 POWER KIK.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 22 DEEP  KIK.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 22 POWER KIK.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 20 SWIFT KIK.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 22 DBLHD KIK.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 22 DBLHD-KIK.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 22 60 KIK.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 22 GATED KIK.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 ELECTRO KIK1.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 ELECTRO KIK2.wav
+lokey=52
+hikey=52
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 WOOD SNR 1.wav
+lokey=53
+hikey=53
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 WOOD SNR 2.wav
+lokey=55
+hikey=55
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 BRASS SNR 1.wav
+lokey=57
+hikey=57
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 GATE SNR  1.wav
+lokey=59
+hikey=59
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 ELECTSNR  1.wav
+key=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 RIM.wav
+lokey=62
+hikey=62
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 STICK.wav
+lokey=64
+hikey=64
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 W BLOCK1.wav
+lokey=65
+hikey=65
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 W BLOCK2.wav
+lokey=67
+hikey=67
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 CLAVE.wav
+lokey=69
+hikey=69
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=7
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 COWBELL.wav
+lokey=71
+hikey=71
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=7
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 SHAKER.wav
+lokey=72
+hikey=72
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 L CONGA.wav
+lokey=74
+hikey=74
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+pan=53.8
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 H CONGA.wav
+lokey=76
+hikey=76
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+pan=-59.8
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 FOOT HAT.wav
+lokey=77
+hikey=77
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+pan=-59.8
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 10-TOM 1.wav
+lokey=54
+hikey=54
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-2
+tune=-95
+pan=-100
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 10-TOM 1.wav
+lokey=56
+hikey=56
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 10-TOM 1.wav
+lokey=58
+hikey=58
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=3
+tune=5
+pan=100
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 16-TOM 1.wav
+lokey=66
+hikey=66
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-2
+tune=-95
+pan=-100
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 16-TOM 1.wav
+lokey=68
+hikey=68
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 16-TOM 1.wav
+lokey=70
+hikey=70
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=3
+tune=5
+pan=100
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 10-DBL TOM.wav
+lokey=78
+hikey=78
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-3
+tune=-95
+pan=-100
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 10-DBL TOM.wav
+lokey=80
+hikey=80
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 10-DBL TOM.wav
+lokey=82
+hikey=82
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=3
+tune=5
+pan=100
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 ELECT  TOM.wav
+lokey=61
+hikey=61
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-2
+tune=-95
+pan=-100
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 ELECT  TOM.wav
+lokey=63
+hikey=63
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=3
+tune=5
+pan=100
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 RIDE-BELL.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=7
+tune=5
+pan=-59.8
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 CRASH CYM.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-1
+tune=-95
+pan=35.8
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 CRASH CYM.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=2
+tune=5
+pan=91.8
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 TIMBALE.wav
+lokey=73
+hikey=73
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-3
+tune=-95
+pan=-39.8
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 TIMBALE.wav
+lokey=75
+hikey=75
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=3
+tune=5
+pan=39.8
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 AGOGO.wav
+lokey=85
+hikey=85
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+pan=-19.8
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 AGOGO.wav
+lokey=87
+hikey=87
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=5
+tune=5
+pan=29.8
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 RIDE CYMB.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=6
+tune=5
+pan=-39.8
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 14-DBL TOM.wav
+lokey=90
+hikey=90
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-5
+pan=-37.8
+
+<region> sample=Samples\Alesis HR16\HR16 14-DBL TOM.wav
+lokey=92
+hikey=92
+pitch_keycenter=60
+loop_mode=no_loop
+tune=5
+pan=29.8
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 14-DBL TOM.wav
+lokey=94
+hikey=94
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=4
+tune=5
+pan=-50
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 HAT A.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=4
+tune=5
+pan=-50
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 MED HAT.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=4
+tune=5
+pan=-50
+ampeg_sustain=0.001
+
+<region> sample=Samples\Alesis HR16\HR16 OPN HAT.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=4
+tune=5
+pan=-50
+ampeg_sustain=0.001
+
+

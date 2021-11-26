@@ -1,0 +1,142 @@
+<group>
+pitch_keytrack=0
+ampeg_decay=3.67
+ampeg_release=0.069
+fillfo_freq=0.034
+amplfo_freq=0.034
+
+<region> sample=Samples\Simmons\_Kick 23.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Simmons\_Kick 13.wav
+lokey=35
+hikey=35
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Simmons\_Snare 23.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+lovel=70
+hivel=127
+loop_mode=no_loop
+
+<region> sample=Samples\Simmons\_Snare 13.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+lovel=70
+hivel=127
+loop_mode=no_loop
+
+<region> sample=Samples\Simmons\_Tom 23.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+<region> sample=Samples\Simmons\_Tom 33.wav
+lokey=47
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Simmons\_Tom 13.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+pan=69.8
+
+<region> sample=Samples\Simmons\808 Rimshot4.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Simmons\808 Clap4.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Simmons\808 Cowbell4.wav
+lokey=56
+hikey=56
+pitch_keycenter=60
+loop_mode=no_loop
+pan=19.8
+
+<region> sample=Samples\Simmons\808 Clave4.wav
+lokey=75
+hikey=75
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+<region> sample=Samples\Simmons\808 Maracas4.wav
+lokey=70
+hikey=70
+pitch_keycenter=60
+loop_mode=no_loop
+pan=39.8
+
+<region> sample=Samples\Simmons\808 Lo Conga4.wav
+lokey=57
+hikey=57
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+
+<region> sample=Samples\Simmons\808 Md Conga4.wav
+lokey=59
+hikey=59
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Simmons\808 Hi Conga4.wav
+key=60
+loop_mode=no_loop
+pan=59.8
+
+<region> sample=Samples\Simmons\808 Cymbal-high4.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+pan=50
+
+<region> sample=Samples\Simmons\808 Cymbal_low4.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+
+<region> sample=Samples\Simmons\_Hat_closed3.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+<region> sample=Samples\Simmons\_hat_medium3.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+<region> sample=Samples\Simmons\_Hat_long3.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+

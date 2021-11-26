@@ -1,0 +1,204 @@
+<group>
+pitch_keytrack=0
+ampeg_decay=3.67
+ampeg_release=0.069
+fillfo_freq=0.034
+amplfo_freq=0.034
+
+<region> sample=Samples\Kawai R50\R50 Kick 1.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Kawai R50\R50 Kick 2.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Kawai R50\R50 Kick 3.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Kawai R50\R50 Snare 1.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Kawai R50\R50 Snare 2.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Kawai R50\R50 Snare 3.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Kawai R50\R50 Tom Low.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+<region> sample=Samples\Kawai R50\R50 Tom Mid.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Kawai R50\R50 Tom High.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+pan=69.8
+
+<region> sample=Samples\Kawai R50\R50 Hat Closed.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+<region> sample=Samples\Kawai R50\R50 Hat Closed.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+<region> sample=Samples\Kawai R50\R50 Hat Open.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+<region> sample=Samples\Kawai R50\R50 Crash 1.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+pan=59.8
+
+<region> sample=Samples\Kawai R50\R50 Crash 2.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+pan=50
+
+<region> sample=Samples\Kawai R50\R50 Ride 1.wav
+lokey=52
+hikey=52
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-39.8
+
+<region> sample=Samples\Kawai R50\R50 Ride 2.wav
+lokey=53
+hikey=53
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-39.8
+
+<region> sample=Samples\Kawai R50\R50 China.wav
+lokey=55
+hikey=55
+pitch_keycenter=60
+loop_mode=no_loop
+pan=59.8
+
+<region> sample=Samples\Kawai R50\R50 Agogo.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-3
+pan=-19.8
+
+<region> sample=Samples\Kawai R50\R50 Agogo.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Kawai R50\R50 Conga.wav
+lokey=54
+hikey=54
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-3
+pan=19.8
+
+<region> sample=Samples\Kawai R50\R50 Conga.wav
+lokey=56
+hikey=56
+pitch_keycenter=60
+loop_mode=no_loop
+pan=19.8
+
+<region> sample=Samples\Kawai R50\R50 Conga.wav
+lokey=58
+hikey=58
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=3
+pan=29.8
+
+<region> sample=Samples\Kawai R50\R50 Claves.wav
+lokey=57
+hikey=57
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-39.8
+
+<region> sample=Samples\Kawai R50\R50 Cowbell.wav
+lokey=59
+hikey=59
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Kawai R50\R50 Clap.wav
+key=60
+loop_mode=no_loop
+
+<region> sample=Samples\Kawai R50\R50 Tambourine.wav
+lokey=62
+hikey=62
+pitch_keycenter=60
+loop_mode=no_loop
+pan=29.8
+
+<region> sample=Samples\Kawai R50\R50 Shaker.wav
+lokey=64
+hikey=64
+pitch_keycenter=60
+loop_mode=no_loop
+pan=69.8
+
+<region> sample=Samples\Kawai R50\R50 Timbale.wav
+lokey=61
+hikey=61
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-5
+pan=-39.8
+
+<region> sample=Samples\Kawai R50\R50 Timbale.wav
+lokey=63
+hikey=63
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=1
+pan=29.8
+
+

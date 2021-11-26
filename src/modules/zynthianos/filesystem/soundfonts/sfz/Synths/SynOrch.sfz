@@ -1,0 +1,27 @@
+<group>
+ampeg_attack=0.409
+ampeg_decay=5.057
+ampeg_release=2.918
+cutoff=2019.8
+pitcheg_attack=0.002
+pitcheg_sustain=76
+pitcheg_release=0.871
+fileg_attack=0.002
+fileg_sustain=76
+fileg_release=0.871
+
+<region> sample=Samples\SynOrch\RICH WAVE 3.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=-2
+pan=-20
+
+<region> sample=Samples\SynOrch\RICH WAVE 7.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=-20
+pan=20
+
+

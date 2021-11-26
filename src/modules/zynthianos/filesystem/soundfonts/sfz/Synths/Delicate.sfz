@@ -1,0 +1,29 @@
+<group>
+ampeg_decay=10.922
+ampeg_sustain=0.001
+ampeg_release=5.644
+cutoff=6754.7
+pitcheg_attack=0.021
+pitcheg_decay=0.086
+pitcheg_sustain=65.2
+pitcheg_release=0.699
+fileg_attack=0.021
+fileg_decay=0.086
+fileg_sustain=65.2
+fileg_release=0.699
+
+<region> sample=Samples\Delicate\DELICATE 1.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=13
+pan=-100
+
+<region> sample=Samples\Delicate\DELICATE 1.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=4
+pan=100
+
+

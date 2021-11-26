@@ -1,0 +1,36 @@
+<group>
+transpose=-12
+ampeg_attack=0.002
+ampeg_decay=4.529
+ampeg_sustain=0.001
+ampeg_release=12.189
+cutoff=423.6
+pitcheg_decay=10.922
+pitcheg_sustain=0
+pitcheg_release=2.342
+fileg_decay=10.922
+fileg_sustain=0
+fileg_release=2.342
+fileg_depth=7200
+
+<region> sample=Samples\Digiverb\SW 4.wav
+lokey=40
+hikey=127
+pitch_keycenter=72
+pan=-100
+
+<region> sample=Samples\Digiverb\SW 4.wav
+lokey=40
+hikey=127
+pitch_keycenter=72
+tune=-1
+pan=100
+
+<region> sample=Samples\Digiverb\SW 11.wav
+lokey=40
+hikey=127
+pitch_keycenter=60
+lovel=0
+hivel=0
+
+

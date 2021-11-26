@@ -1,0 +1,27 @@
+<group>
+ampeg_attack=0.536
+ampeg_decay=0.026
+ampeg_release=1.351
+cutoff=2019.8
+pitcheg_decay=0.403
+pitcheg_sustain=61
+pitcheg_release=0.502
+fileg_decay=0.403
+fileg_sustain=61
+fileg_release=0.502
+
+<region> sample=Samples\SpacePad\SPACEWAVE-1.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=-6
+pan=-100
+
+<region> sample=Samples\SpacePad\SPACEWAVE-1.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=-25
+pan=100
+
+

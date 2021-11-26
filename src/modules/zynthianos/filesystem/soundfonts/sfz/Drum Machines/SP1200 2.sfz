@@ -1,0 +1,136 @@
+<group>
+pitch_keytrack=0
+ampeg_decay=0.07
+ampeg_release=2.6
+fillfo_freq=5.916
+amplfo_freq=5.916
+
+<region> sample=Samples\SP1200 2\SP#KICK2.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-6
+
+<region> sample=Samples\SP1200 2\SP#RIMSHOT1.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-6
+
+<region> sample=Samples\SP1200 2\SP#SNARE3.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-6
+
+<region> sample=Samples\SP1200 2\SP#FINGERSNP1.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-6
+
+<region> sample=Samples\SP1200 2\SP#SNARE3.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-6
+
+<region> sample=Samples\SP1200 2\SP#TOMLOW1.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-10
+
+<region> sample=Samples\SP1200 2\SP#  HH11.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-6
+
+<region> sample=Samples\SP1200 2\SP#  HH21.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+lovel=90
+hivel=127
+loop_mode=no_loop
+
+<region> sample=Samples\SP1200 2\SP#TOMLOW1.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-7
+
+<region> sample=Samples\SP1200 2\SP#  HH11.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-6
+
+<region> sample=Samples\SP1200 2\SP#  HH21.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+lovel=90
+hivel=127
+loop_mode=no_loop
+
+<region> sample=Samples\SP1200 2\SP#TOMHI.1.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-6
+
+<region> sample=Samples\SP1200 2\SP#  HH31.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-6
+
+<region> sample=Samples\SP1200 2\SP#TOMHI.1.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-6
+
+<region> sample=Samples\SP1200 2\SP#TOMHI.1.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-3
+
+<region> sample=Samples\SP1200 2\SP#CYMBAL1.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-6
+
+<region> sample=Samples\SP1200 2\SP#TOMHI.1.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-3
+
+<region> sample=Samples\SP1200 2\SP#RIDE1.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-6
+
+

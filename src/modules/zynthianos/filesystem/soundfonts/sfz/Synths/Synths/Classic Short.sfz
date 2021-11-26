@@ -1,0 +1,24 @@
+<group>
+ampeg_release=0.129
+
+<region> sample=Samples\Classic Short\013.wav
+lokey=0
+hikey=53
+pitch_keycenter=48
+
+<region> sample=Samples\Classic Short\023.wav
+lokey=54
+hikey=65
+pitch_keycenter=60
+
+<region> sample=Samples\Classic Short\033.wav
+lokey=66
+hikey=77
+pitch_keycenter=72
+
+<region> sample=Samples\Classic Short\042.wav
+lokey=78
+hikey=127
+pitch_keycenter=84
+
+

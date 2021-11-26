@@ -1,0 +1,23 @@
+<group>
+ampeg_decay=18.571
+ampeg_sustain=0.001
+ampeg_release=0.773
+fillfo_freq=3.001
+amplfo_freq=3.001
+
+<region> sample=Samples\Dyno Stack\ARP BASS 1 12.wav
+lokey=12
+hikey=61
+pitch_keycenter=52
+
+<region> sample=Samples\Dyno Stack\ARP BASS 1 22.wav
+lokey=62
+hikey=76
+pitch_keycenter=71
+
+<region> sample=Samples\Dyno Stack\ARP BASS 1 32.wav
+lokey=77
+hikey=127
+pitch_keycenter=83
+
+

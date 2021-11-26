@@ -1,0 +1,19 @@
+<group>
+ampeg_release=0.129
+
+<region> sample=Samples\Classic Lead II\012.wav
+lokey=0
+hikey=65
+pitch_keycenter=60
+
+<region> sample=Samples\Classic Lead II\022.wav
+lokey=66
+hikey=77
+pitch_keycenter=72
+
+<region> sample=Samples\Classic Lead II\032.wav
+lokey=78
+hikey=127
+pitch_keycenter=84
+
+

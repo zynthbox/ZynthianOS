@@ -1,0 +1,36 @@
+<group>
+ampeg_attack=0.448
+ampeg_decay=0.026
+ampeg_release=1.683
+cutoff=19997.1
+pitcheg_decay=0.008
+pitcheg_sustain=58
+pitcheg_release=0.699
+fileg_decay=0.008
+fileg_sustain=58
+fileg_release=0.699
+fileg_depth=10560
+
+<region> sample=Samples\SynStr\PULSE WIDTH.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=-20
+pan=100
+
+<region> sample=Samples\SynStr\PULSE WIDTH.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=-35
+pan=-100
+
+<region> sample=Samples\SynStr\BREATH VOX 12.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+lovel=0
+hivel=0
+tune=-13
+
+

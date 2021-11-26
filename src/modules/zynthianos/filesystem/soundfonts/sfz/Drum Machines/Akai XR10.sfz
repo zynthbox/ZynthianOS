@@ -1,0 +1,589 @@
+<group>
+pitch_keytrack=0
+fillfo_freq=5.094
+amplfo_freq=5.094
+
+<region> sample=Samples\Akai XR10\Kick - studio 1.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=2.749
+
+<region> sample=Samples\Akai XR10\Kick - straight.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=2.749
+
+<region> sample=Samples\Akai XR10\Kick - studio 3.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=2.749
+
+<region> sample=Samples\Akai XR10\Kick - trash.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=4.5
+
+<region> sample=Samples\Akai XR10\Kick - 606.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=0.1
+
+<region> sample=Samples\Akai XR10\Simmons Kick.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=7.001
+
+<region> sample=Samples\Akai XR10\Kick - studio 4.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Kick - studio 2.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=1
+
+<region> sample=Samples\Akai XR10\Kick - ambient.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Kick - flabby.wav
+lokey=52
+hikey=52
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=0.65
+
+<region> sample=Samples\Akai XR10\Snare - studio 2.wav
+lokey=53
+hikey=53
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Snare - studio 1.wav
+lokey=55
+hikey=55
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=2.749
+
+<region> sample=Samples\Akai XR10\Simmons Snare.wav
+lokey=57
+hikey=57
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=2.749
+
+<region> sample=Samples\Akai XR10\Snare - trash.wav
+lokey=59
+hikey=59
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=4.5
+
+<region> sample=Samples\Akai XR10\Snare - big.wav
+key=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Snare - piccolo.wav
+lokey=62
+hikey=62
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=1.71
+
+<region> sample=Samples\Akai XR10\Snare - 606.wav
+lokey=64
+hikey=64
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=0.65
+
+<region> sample=Samples\Akai XR10\Snare - deep.wav
+lokey=65
+hikey=65
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=1.71
+
+<region> sample=Samples\Akai XR10\Snare - crack.wav
+lokey=67
+hikey=67
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Simmons Crack.wav
+lokey=69
+hikey=69
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=4.5
+
+<region> sample=Samples\Akai XR10\Snare - side stick.wav
+lokey=71
+hikey=71
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=1.71
+
+<region> sample=Samples\Akai XR10\Snare - rimshot.wav
+lokey=72
+hikey=72
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=1.71
+
+<region> sample=Samples\Akai XR10\Clap.wav
+lokey=74
+hikey=74
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=1.71
+
+<region> sample=Samples\Akai XR10\Finger snaps.wav
+lokey=76
+hikey=76
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=1.71
+
+<region> sample=Samples\Akai XR10\Tom Low.wav
+lokey=54
+hikey=54
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Tom Hi.wav
+lokey=56
+hikey=56
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Tom Hi.wav
+lokey=58
+hikey=58
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=3
+pan=69.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Tom - Gabriel.wav
+lokey=66
+hikey=66
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-3
+pan=-69.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Tom - Gabriel.wav
+lokey=68
+hikey=68
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Tom - Gabriel.wav
+lokey=70
+hikey=70
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=4
+pan=69.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Simmons Tom.wav
+lokey=78
+hikey=78
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-7
+pan=-69.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=14.304
+
+<region> sample=Samples\Akai XR10\Simmons Tom.wav
+lokey=80
+hikey=80
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-3
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Simmons Tom.wav
+lokey=82
+hikey=82
+pitch_keycenter=60
+loop_mode=no_loop
+pan=69.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=4.5
+
+<region> sample=Samples\Akai XR10\Squeak 2.wav
+lokey=61
+hikey=61
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-100
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=1.71
+
+<region> sample=Samples\Akai XR10\Squeak 1.wav
+lokey=63
+hikey=63
+pitch_keycenter=60
+loop_mode=no_loop
+pan=100
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=1.71
+
+<region> sample=Samples\Akai XR10\Cymbal Ride.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=41.403
+
+<region> sample=Samples\Akai XR10\Cymbal - crash 1.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+loop_mode=no_loop
+pan=35.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=41.403
+
+<region> sample=Samples\Akai XR10\Cymbal - crash 2.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+pan=91.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=41.403
+
+<region> sample=Samples\Akai XR10\Conga 4.wav
+lokey=77
+hikey=77
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-50
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=1.71
+
+<region> sample=Samples\Akai XR10\Conga 3.wav
+lokey=79
+hikey=79
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-15.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=0.65
+
+<region> sample=Samples\Akai XR10\Conga 2.wav
+lokey=81
+hikey=81
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-15.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=0.65
+
+<region> sample=Samples\Akai XR10\Conga 1.wav
+lokey=83
+hikey=83
+pitch_keycenter=60
+loop_mode=no_loop
+pan=50
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=0.65
+
+<region> sample=Samples\Akai XR10\Vibraslap.wav
+lokey=84
+hikey=84
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-50
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=21.394
+
+<region> sample=Samples\Akai XR10\Timbale Low.wav
+lokey=73
+hikey=73
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-39.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Timbale - high.wav
+lokey=75
+hikey=75
+pitch_keycenter=60
+loop_mode=no_loop
+pan=39.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Agogo.wav
+lokey=85
+hikey=85
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-19.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Agogo.wav
+lokey=87
+hikey=87
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=5
+pan=29.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Guira 1.wav
+lokey=86
+hikey=86
+pitch_keycenter=60
+loop_mode=no_loop
+pan=100
+ampeg_decay=14.304
+ampeg_release=14.304
+
+<region> sample=Samples\Akai XR10\Guira 2.wav
+lokey=88
+hikey=88
+pitch_keycenter=60
+loop_mode=no_loop
+pan=100
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=21.394
+
+<region> sample=Samples\Akai XR10\Cymbal Choke.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-39.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Cabasa.wav
+lokey=89
+hikey=89
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-74
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=2.749
+
+<region> sample=Samples\Akai XR10\Triangle.wav
+lokey=90
+hikey=90
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=12
+pan=29.8
+ampeg_decay=0.35
+ampeg_sustain=0.001
+ampeg_release=0.35
+
+<region> sample=Samples\Akai XR10\Tambourine roll.wav
+lokey=91
+hikey=91
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Triangle.wav
+lokey=92
+hikey=92
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=12
+pan=29.8
+ampeg_decay=12.899
+ampeg_sustain=0.001
+ampeg_release=2
+
+<region> sample=Samples\Akai XR10\Tambourine.wav
+lokey=93
+hikey=93
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=8
+
+<region> sample=Samples\Akai XR10\Cowbell.wav
+lokey=94
+hikey=94
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-50
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=2.749
+
+<region> sample=Samples\Akai XR10\Clave.wav
+lokey=95
+hikey=95
+pitch_keycenter=60
+loop_mode=no_loop
+pan=23.8
+ampeg_decay=14.304
+ampeg_sustain=0.001
+ampeg_release=2.749
+
+<region> sample=Samples\Akai XR10\Whistle.wav
+lokey=96
+hikey=96
+pitch_keycenter=60
+loop_mode=no_loop
+pan=77.8
+ampeg_decay=14.304
+ampeg_release=0.1
+
+<region> sample=Samples\Akai XR10\Hat - closed.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+ampeg_decay=14.304
+ampeg_release=0.1
+
+<region> sample=Samples\Akai XR10\Hat Medium.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+ampeg_decay=14.304
+ampeg_release=0.1
+
+<region> sample=Samples\Akai XR10\Hat Open.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+ampeg_decay=14.304
+ampeg_release=0.1
+
+

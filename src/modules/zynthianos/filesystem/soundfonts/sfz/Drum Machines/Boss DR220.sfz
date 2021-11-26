@@ -1,0 +1,166 @@
+<group>
+pitch_keytrack=0
+ampeg_decay=3.67
+ampeg_release=0.069
+fillfo_freq=0.034
+amplfo_freq=0.034
+
+<region> sample=Samples\Boss DR220\dr220a Kick.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Boss DR220\dr220a Snare.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Boss DR220\dr220a Sidestick.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Boss DR220\dr220a Clap.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Boss DR220\dr220a Low Tom.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+<region> sample=Samples\Boss DR220\dr220a Mid Tom.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Boss DR220\dr220a Hi Tom.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+pan=79.8
+
+<region> sample=Samples\Boss DR220\dr220a Crash.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+pan=50
+
+<region> sample=Samples\Boss DR220\dr220a Ride.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-29.8
+
+<region> sample=Samples\Boss DR220\dr220a Cl Hat.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+<region> sample=Samples\Boss DR220\dr220a Cl Hat.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+<region> sample=Samples\Boss DR220\dr220a Open Hat.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+<region> sample=Samples\Boss DR220\dr220e Kick.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Boss DR220\dr220e Snare.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Boss DR220\dr220e Cowbell.wav
+lokey=52
+hikey=52
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Boss DR220\dr220e Slap.wav
+lokey=53
+hikey=53
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Boss DR220\dr220e Low Tom.wav
+lokey=55
+hikey=55
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+<region> sample=Samples\Boss DR220\dr220e Mid Tom.wav
+lokey=57
+hikey=57
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Boss DR220\dr220e Hi Tom.wav
+lokey=59
+hikey=59
+pitch_keycenter=60
+loop_mode=no_loop
+pan=79.8
+
+<region> sample=Samples\Boss DR220\dr220e Crash.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+loop_mode=no_loop
+pan=39.8
+
+<region> sample=Samples\Boss DR220\dr220e Cymbal Cup.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-39.8
+
+<region> sample=Samples\Boss DR220\dr220e Cl Hat.wav
+lokey=54
+hikey=54
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+<region> sample=Samples\Boss DR220\dr220e Cl Hat.wav
+lokey=56
+hikey=56
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+<region> sample=Samples\Boss DR220\dr220e Open Hat.wav
+lokey=58
+hikey=58
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+

@@ -1,0 +1,27 @@
+<group>
+ampeg_decay=0.026
+ampeg_release=0.134
+cutoff=20
+pitcheg_decay=2.342
+pitcheg_sustain=70
+pitcheg_release=0.134
+fileg_decay=2.342
+fileg_sustain=70
+fileg_release=0.134
+fileg_depth=7200
+
+<region> sample=Samples\PowerSynth2\THICK-SYNTH2.wav
+lokey=24
+hikey=127
+pitch_keycenter=60
+tune=7
+pan=-100
+
+<region> sample=Samples\PowerSynth2\THICK-SYNTH2.wav
+lokey=24
+hikey=127
+pitch_keycenter=60
+tune=-8
+pan=100
+
+

@@ -1,0 +1,142 @@
+<group>
+pitch_keytrack=0
+ampeg_decay=3.67
+ampeg_release=0.069
+fillfo_freq=0.034
+amplfo_freq=0.034
+
+<region> sample=Samples\Retrobox\_Kick 22.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Retrobox\_Kick 12.wav
+lokey=35
+hikey=35
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Retrobox\_Snare 22.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+lovel=70
+hivel=127
+loop_mode=no_loop
+
+<region> sample=Samples\Retrobox\_Snare 12.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+lovel=70
+hivel=127
+loop_mode=no_loop
+
+<region> sample=Samples\Retrobox\_Tom 22.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+<region> sample=Samples\Retrobox\_Tom 32.wav
+lokey=47
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Retrobox\_Tom 12.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+pan=69.8
+
+<region> sample=Samples\Retrobox\808 Rimshot3.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Retrobox\808 Clap3.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Retrobox\808 Cowbell3.wav
+lokey=56
+hikey=56
+pitch_keycenter=60
+loop_mode=no_loop
+pan=19.8
+
+<region> sample=Samples\Retrobox\808 Clave3.wav
+lokey=75
+hikey=75
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+<region> sample=Samples\Retrobox\808 Maracas3.wav
+lokey=70
+hikey=70
+pitch_keycenter=60
+loop_mode=no_loop
+pan=39.8
+
+<region> sample=Samples\Retrobox\808 Lo Conga3.wav
+lokey=57
+hikey=57
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+
+<region> sample=Samples\Retrobox\808 Md Conga3.wav
+lokey=59
+hikey=59
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Retrobox\808 Hi Conga3.wav
+key=60
+loop_mode=no_loop
+pan=59.8
+
+<region> sample=Samples\Retrobox\808 Cymbal-high3.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+pan=50
+
+<region> sample=Samples\Retrobox\808 Cymbal_low3.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+
+<region> sample=Samples\Retrobox\_Hat_closed2.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+<region> sample=Samples\Retrobox\_hat_medium2.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+<region> sample=Samples\Retrobox\_Hat_long2.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+

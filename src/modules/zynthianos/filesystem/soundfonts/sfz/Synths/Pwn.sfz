@@ -1,0 +1,33 @@
+<group>
+tune=-26
+ampeg_attack=0.089
+ampeg_decay=0.026
+ampeg_release=2.097
+cutoff=19997.1
+pitcheg_release=0.699
+fileg_release=0.699
+
+<region> sample=Samples\Pwn\PWM 12.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+pitcheg_attack=0.021
+pitcheg_decay=0.086
+pitcheg_sustain=58
+fileg_attack=0.021
+fileg_decay=0.086
+fileg_sustain=58
+
+<region> sample=Samples\Pwn\PWM 12.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+pitcheg_attack=0.006
+pitcheg_decay=0.021
+pitcheg_sustain=0
+pitcheg_depth=-7920
+fileg_attack=0.006
+fileg_decay=0.021
+fileg_sustain=0
+
+

@@ -1,0 +1,110 @@
+<group>
+pitch_keytrack=0
+ampeg_decay=3.67
+ampeg_release=0.069
+fillfo_freq=0.034
+amplfo_freq=0.034
+
+<region> sample=Samples\Roland TR727\727 Bongo Lo.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+
+<region> sample=Samples\Roland TR727\727 Bongo Hi.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-39.8
+
+<region> sample=Samples\Roland TR727\727 Conga lo.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Roland TR727\727 Conga Hi.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+pan=39.8
+
+<region> sample=Samples\Roland TR727\727 Conga Mute.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+pan=39.8
+
+<region> sample=Samples\Roland TR727\727 Timbale Lo.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-29.8
+
+<region> sample=Samples\Roland TR727\727 Timbale Hi.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+pan=29.8
+
+<region> sample=Samples\Roland TR727\727 Agogo Lo.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+pan=59.8
+
+<region> sample=Samples\Roland TR727\727 Agogo Hi.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+pan=69.8
+
+<region> sample=Samples\Roland TR727\727 Cabasa.wav
+lokey=52
+hikey=52
+pitch_keycenter=60
+loop_mode=no_loop
+pan=50
+
+<region> sample=Samples\Roland TR727\727 Maracas.wav
+lokey=53
+hikey=53
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-50
+
+<region> sample=Samples\Roland TR727\727 Whistle Short.wav
+lokey=55
+hikey=55
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+<region> sample=Samples\Roland TR727\727 Whistle Long.wav
+lokey=57
+hikey=57
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+<region> sample=Samples\Roland TR727\727 Quijada.wav
+lokey=59
+hikey=59
+pitch_keycenter=60
+loop_mode=no_loop
+pan=50
+
+<region> sample=Samples\Roland TR727\727 Starchime.wav
+key=60
+loop_mode=no_loop
+pan=-50
+
+

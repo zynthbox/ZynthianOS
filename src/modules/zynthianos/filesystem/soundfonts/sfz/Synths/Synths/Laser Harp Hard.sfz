@@ -1,0 +1,19 @@
+<group>
+ampeg_release=5.769
+
+<region> sample=Samples\Laser Harp Hard\019.wav
+lokey=0
+hikey=53
+pitch_keycenter=48
+
+<region> sample=Samples\Laser Harp Hard\029.wav
+lokey=54
+hikey=65
+pitch_keycenter=60
+
+<region> sample=Samples\Laser Harp Hard\039.wav
+lokey=66
+hikey=77
+pitch_keycenter=72
+
+

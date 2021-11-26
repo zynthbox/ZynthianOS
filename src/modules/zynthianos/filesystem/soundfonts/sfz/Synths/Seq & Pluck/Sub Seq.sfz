@@ -1,0 +1,41 @@
+<group>
+ampeg_hold=0.462
+ampeg_decay=0.604
+ampeg_release=3.109
+
+<region> sample=Samples\Sub Seq\0310.wav
+lokey=0
+hikey=50
+pitch_keycenter=48
+
+<region> sample=Samples\Sub Seq\059.wav
+lokey=51
+hikey=56
+pitch_keycenter=54
+
+<region> sample=Samples\Sub Seq\0410.wav
+lokey=57
+hikey=62
+pitch_keycenter=60
+
+<region> sample=Samples\Sub Seq\066.wav
+lokey=63
+hikey=68
+pitch_keycenter=66
+
+<region> sample=Samples\Sub Seq\0110.wav
+lokey=69
+hikey=74
+pitch_keycenter=72
+
+<region> sample=Samples\Sub Seq\075.wav
+lokey=75
+hikey=80
+pitch_keycenter=78
+
+<region> sample=Samples\Sub Seq\0210.wav
+lokey=81
+hikey=127
+pitch_keycenter=84
+
+

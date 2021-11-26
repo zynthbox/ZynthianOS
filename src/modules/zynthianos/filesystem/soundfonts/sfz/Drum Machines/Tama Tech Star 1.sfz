@@ -1,0 +1,142 @@
+<group>
+pitch_keytrack=0
+ampeg_decay=3.67
+ampeg_release=0.069
+fillfo_freq=0.034
+amplfo_freq=0.034
+
+<region> sample=Samples\Tama Tech Star 1\_Kick 25.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Tama Tech Star 1\_Kick 15.wav
+lokey=35
+hikey=35
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Tama Tech Star 1\_Snare 25.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+lovel=70
+hivel=127
+loop_mode=no_loop
+
+<region> sample=Samples\Tama Tech Star 1\_Snare 15.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+lovel=70
+hivel=127
+loop_mode=no_loop
+
+<region> sample=Samples\Tama Tech Star 1\_Tom 25.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+<region> sample=Samples\Tama Tech Star 1\_Tom 35.wav
+lokey=47
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Tama Tech Star 1\_Tom 15.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+pan=69.8
+
+<region> sample=Samples\Tama Tech Star 1\808 Rimshot6.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Tama Tech Star 1\808 Clap6.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Tama Tech Star 1\808 Cowbell6.wav
+lokey=56
+hikey=56
+pitch_keycenter=60
+loop_mode=no_loop
+pan=19.8
+
+<region> sample=Samples\Tama Tech Star 1\808 Clave6.wav
+lokey=75
+hikey=75
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+<region> sample=Samples\Tama Tech Star 1\808 Maracas6.wav
+lokey=70
+hikey=70
+pitch_keycenter=60
+loop_mode=no_loop
+pan=39.8
+
+<region> sample=Samples\Tama Tech Star 1\808 Lo Conga6.wav
+lokey=57
+hikey=57
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+
+<region> sample=Samples\Tama Tech Star 1\808 Md Conga6.wav
+lokey=59
+hikey=59
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\Tama Tech Star 1\808 Hi Conga6.wav
+key=60
+loop_mode=no_loop
+pan=59.8
+
+<region> sample=Samples\Tama Tech Star 1\808 Cymbal-high6.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+pan=50
+
+<region> sample=Samples\Tama Tech Star 1\808 Cymbal_low6.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+
+<region> sample=Samples\Tama Tech Star 1\_Hat_closed5.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+<region> sample=Samples\Tama Tech Star 1\_hat_medium5.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+<region> sample=Samples\Tama Tech Star 1\_Hat_long5.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+
+

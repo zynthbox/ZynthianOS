@@ -1,0 +1,21 @@
+<group>
+transpose=1
+tune=1
+ampeg_decay=0.026
+ampeg_release=0.017
+cutoff=19997.1
+pitcheg_attack=0.021
+pitcheg_decay=0.086
+pitcheg_sustain=58
+pitcheg_release=0.699
+fileg_attack=0.021
+fileg_decay=0.086
+fileg_sustain=58
+fileg_release=0.699
+
+<region> sample=Samples\MegaBrass\MEGA SYNTH 1.wav
+lokey=24
+hikey=127
+pitch_keycenter=60
+
+

@@ -1,0 +1,23 @@
+<group>
+ampeg_decay=18.571
+ampeg_sustain=0.001
+ampeg_release=0.773
+fillfo_freq=3.001
+amplfo_freq=3.001
+
+<region> sample=Samples\Rip Synth\JSYNBASS 2 17.wav
+lokey=12
+hikey=61
+pitch_keycenter=52
+
+<region> sample=Samples\Rip Synth\JSYNBASS 2 27.wav
+lokey=62
+hikey=77
+pitch_keycenter=69
+
+<region> sample=Samples\Rip Synth\JSYNBASS 2 37.wav
+lokey=78
+hikey=127
+pitch_keycenter=83
+
+

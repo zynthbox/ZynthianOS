@@ -1,0 +1,24 @@
+<group>
+ampeg_release=2.43
+
+<region> sample=Samples\Synth Keys III\0117.wav
+lokey=0
+hikey=49
+pitch_keycenter=44
+
+<region> sample=Samples\Synth Keys III\0217.wav
+lokey=50
+hikey=61
+pitch_keycenter=56
+
+<region> sample=Samples\Synth Keys III\0317.wav
+lokey=62
+hikey=73
+pitch_keycenter=68
+
+<region> sample=Samples\Synth Keys III\0413.wav
+lokey=74
+hikey=127
+pitch_keycenter=80
+
+

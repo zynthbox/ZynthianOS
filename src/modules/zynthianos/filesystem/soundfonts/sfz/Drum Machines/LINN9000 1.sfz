@@ -1,0 +1,112 @@
+<group>
+pitch_keytrack=0
+transpose=1
+tune=2
+ampeg_decay=0.07
+ampeg_release=2.6
+fillfo_freq=5.916
+amplfo_freq=5.916
+
+<region> sample=Samples\LINN9000 1\9000 KICK.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 STICK.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 SNARE.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 CLAP.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 SNARE.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 TOM 4.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 CLHH.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 TOM 3.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 CLHH.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 TOM 2.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 OPHH.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 TOM 2.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 TOM 1.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 CRASH.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 TOM 1.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 RIDE1.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\LINN9000 1\9000 TOM 2.wav
+lokey=64
+hikey=64
+pitch_keycenter=60
+loop_mode=no_loop
+
+

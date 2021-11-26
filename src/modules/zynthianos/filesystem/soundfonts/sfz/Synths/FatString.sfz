@@ -1,0 +1,29 @@
+<group>
+ampeg_attack=0.089
+ampeg_decay=0.026
+ampeg_release=2.097
+cutoff=19997.1
+pitcheg_attack=0.021
+pitcheg_decay=0.086
+pitcheg_sustain=58
+pitcheg_release=0.699
+fileg_attack=0.021
+fileg_decay=0.086
+fileg_sustain=58
+fileg_release=0.699
+
+<region> sample=Samples\FatString\FAT STRING.wav
+lokey=24
+hikey=127
+pitch_keycenter=69
+tune=-59
+pan=100
+
+<region> sample=Samples\FatString\FAT STRING.wav
+lokey=24
+hikey=127
+pitch_keycenter=69
+tune=-62
+pan=-100
+
+

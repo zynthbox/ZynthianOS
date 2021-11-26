@@ -1,0 +1,24 @@
+<group>
+ampeg_attack=0.117
+ampeg_decay=41.427
+ampeg_sustain=0.001
+ampeg_release=2.856
+fillfo_freq=3.001
+amplfo_freq=3.001
+
+<region> sample=Samples\Slow Heavens\OBX BASS 1 12.wav
+lokey=12
+hikey=61
+pitch_keycenter=42
+
+<region> sample=Samples\Slow Heavens\OBX BASS 1 22.wav
+lokey=62
+hikey=76
+pitch_keycenter=59
+
+<region> sample=Samples\Slow Heavens\OBX BASS 1 32.wav
+lokey=77
+hikey=127
+pitch_keycenter=73
+
+

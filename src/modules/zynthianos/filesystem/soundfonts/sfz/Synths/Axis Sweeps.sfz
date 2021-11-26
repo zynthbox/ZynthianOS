@@ -1,0 +1,23 @@
+<group>
+ampeg_decay=26.569
+ampeg_sustain=0.001
+ampeg_release=1.055
+fillfo_freq=3.001
+amplfo_freq=3.001
+
+<region> sample=Samples\Axis Sweeps\MOOG SBS 11.wav
+lokey=12
+hikey=61
+pitch_keycenter=42
+
+<region> sample=Samples\Axis Sweeps\MOOG SBS 21.wav
+lokey=62
+hikey=76
+pitch_keycenter=61
+
+<region> sample=Samples\Axis Sweeps\MOOG SBS 31.wav
+lokey=77
+hikey=127
+pitch_keycenter=73
+
+

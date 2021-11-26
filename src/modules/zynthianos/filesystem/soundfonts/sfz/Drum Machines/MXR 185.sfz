@@ -1,0 +1,94 @@
+<group>
+pitch_keytrack=0
+ampeg_decay=3.67
+ampeg_release=0.069
+fillfo_freq=0.034
+amplfo_freq=0.034
+
+<region> sample=Samples\MXR 185\MXR Kick.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\MXR 185\MXR Snare.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\MXR 185\MXR Rimshot.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\MXR 185\MXR Claps.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\MXR 185\MXR Tom 3.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-69.8
+
+<region> sample=Samples\MXR 185\MXR Tom 2.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\MXR 185\MXR Tom 1.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+pan=69.8
+
+<region> sample=Samples\MXR 185\MXR Crash.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+pan=39.8
+
+<region> sample=Samples\MXR 185\MXR Cowbell.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-19.8
+
+<region> sample=Samples\MXR 185\MXR woodblock.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+pan=39.8
+
+<region> sample=Samples\MXR 185\MXR Hat_closed.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+
+<region> sample=Samples\MXR 185\MXR Hat_closed.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+
+<region> sample=Samples\MXR 185\MXR Hat_open.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+
+

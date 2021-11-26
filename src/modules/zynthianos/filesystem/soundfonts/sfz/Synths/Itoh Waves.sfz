@@ -1,0 +1,21 @@
+<group>
+ampeg_release=0.773
+fillfo_freq=3.001
+amplfo_freq=3.001
+
+<region> sample=Samples\Itoh Waves\S M BASS 21.wav
+lokey=12
+hikey=61
+pitch_keycenter=52
+
+<region> sample=Samples\Itoh Waves\S M BASS 31.wav
+lokey=62
+hikey=77
+pitch_keycenter=71
+
+<region> sample=Samples\Itoh Waves\JSYNBASS 1 11.wav
+lokey=78
+hikey=127
+pitch_keycenter=83
+
+

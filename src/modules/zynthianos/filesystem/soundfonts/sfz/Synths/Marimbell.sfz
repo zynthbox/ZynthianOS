@@ -1,0 +1,41 @@
+<group>
+ampeg_decay=4.058
+ampeg_sustain=0.001
+ampeg_release=0.972
+cutoff=297.1
+pitcheg_decay=0.05
+pitcheg_sustain=60.4
+pitcheg_release=2.613
+fileg_decay=0.05
+fileg_sustain=60.4
+fileg_release=2.613
+fileg_depth=12000
+
+<region> sample=Samples\Marimbell\MARIMBA.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+tune=4
+
+<region> sample=Samples\Marimbell\BRETHBELL1.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+transpose=11
+tune=94
+
+<region> sample=Samples\Marimbell\SAWTOOTH4.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+lovel=0
+hivel=0
+
+<region> sample=Samples\Marimbell\SOUNDTRACK4.wav
+lokey=24
+hikey=127
+pitch_keycenter=72
+lovel=0
+hivel=0
+
+

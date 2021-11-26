@@ -1,0 +1,29 @@
+<group>
+ampeg_release=4.39
+
+<region> sample=Samples\First Synth\026.wav
+lokey=0
+hikey=46
+pitch_keycenter=44
+
+<region> sample=Samples\First Synth\016.wav
+lokey=47
+hikey=52
+pitch_keycenter=50
+
+<region> sample=Samples\First Synth\036.wav
+lokey=53
+hikey=61
+pitch_keycenter=56
+
+<region> sample=Samples\First Synth\044.wav
+lokey=62
+hikey=73
+pitch_keycenter=68
+
+<region> sample=Samples\First Synth\05.wav
+lokey=74
+hikey=127
+pitch_keycenter=80
+
+

@@ -1,0 +1,86 @@
+<group>
+pitch_keytrack=0
+ampeg_decay=3.67
+ampeg_release=0.069
+fillfo_freq=0.034
+amplfo_freq=0.034
+
+<region> sample=Samples\SCI Tom\Tom Kick.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\SCI Tom\Tom Snare.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\SCI Tom\Tom Clap.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+
+<region> sample=Samples\SCI Tom\Tom Tom2.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-6
+pan=-79.8
+
+<region> sample=Samples\SCI Tom\Tom Tom2.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-3
+pan=-29.8
+
+<region> sample=Samples\SCI Tom\Tom Tom1.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=1
+pan=29.8
+
+<region> sample=Samples\SCI Tom\Tom Tom1.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=3
+pan=79.8
+
+<region> sample=Samples\SCI Tom\Tom Crash.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+pan=39.8
+
+<region> sample=Samples\SCI Tom\Tom Hat Closed.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+
+<region> sample=Samples\SCI Tom\Tom Hat Closed.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+
+<region> sample=Samples\SCI Tom\Tom Openhat.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-59.8
+
+

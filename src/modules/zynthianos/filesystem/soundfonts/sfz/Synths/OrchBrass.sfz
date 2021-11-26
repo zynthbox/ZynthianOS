@@ -1,0 +1,29 @@
+<group>
+transpose=-12
+ampeg_decay=29.395
+ampeg_sustain=30.903
+ampeg_release=0.871
+cutoff=82.8
+pitcheg_attack=0.374
+pitcheg_decay=3.634
+pitcheg_sustain=59.2
+pitcheg_release=4.058
+fileg_attack=0.374
+fileg_decay=3.634
+fileg_sustain=59.2
+fileg_release=4.058
+fileg_depth=12000
+
+<region> sample=Samples\OrchBrass\SAXY1.wav
+lokey=24
+hikey=127
+pitch_keycenter=77
+tune=-10
+
+<region> sample=Samples\OrchBrass\SAW.wav
+lokey=24
+hikey=127
+pitch_keycenter=60
+tune=-37
+
+

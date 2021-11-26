@@ -1,0 +1,227 @@
+<group>
+pitch_keytrack=0
+ampeg_release=0.375
+fillfo_freq=5.094
+amplfo_freq=5.094
+
+<region> sample=Samples\Yamaha RX11\RX11 BD1.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 BD2.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 BD3.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 LITE SN.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 MED  SN.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 HEVY SN.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 SNR 1.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 SNR 2.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 SNR 3.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 SNR 4.wav
+lokey=52
+hikey=52
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 SNR 5.wav
+lokey=53
+hikey=53
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 TOM3.wav
+lokey=55
+hikey=55
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-100
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 TOM2.wav
+lokey=57
+hikey=57
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 TOM1.wav
+lokey=59
+hikey=59
+pitch_keycenter=60
+loop_mode=no_loop
+pan=100
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 COW1.wav
+key=60
+loop_mode=no_loop
+pan=-39.8
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 COW2.wav
+lokey=62
+hikey=62
+pitch_keycenter=60
+loop_mode=no_loop
+pan=39.8
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 CLAP1.wav
+lokey=64
+hikey=64
+pitch_keycenter=60
+loop_mode=no_loop
+pan=19.8
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 CLAP2.wav
+lokey=65
+hikey=65
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-19.8
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 RIM1.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 RIM2.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 RIDE.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+loop_mode=no_loop
+pan=-79.8
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 CRASH.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+pan=79.8
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 SHAKER.wav
+lokey=67
+hikey=67
+pitch_keycenter=60
+loop_mode=no_loop
+pan=100
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 CLHAT1.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+pan=100
+ampeg_decay=0.6
+ampeg_sustain=0.001
+
+<region> sample=Samples\Yamaha RX11\RX11 OPHAT1.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+pan=100
+ampeg_decay=2
+ampeg_sustain=0.001
+
+<region> sample=Samples\Yamaha RX11\RX11 OPHAT1.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+pan=100
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 CLHAT2.wav
+lokey=54
+hikey=54
+pitch_keycenter=60
+loop_mode=no_loop
+pan=100
+ampeg_decay=0.1
+
+<region> sample=Samples\Yamaha RX11\RX11 OPHAT2.wav
+lokey=56
+hikey=56
+pitch_keycenter=60
+loop_mode=no_loop
+pan=100
+ampeg_decay=1
+ampeg_sustain=0.001
+
+<region> sample=Samples\Yamaha RX11\RX11 OPHAT2.wav
+lokey=58
+hikey=58
+pitch_keycenter=60
+loop_mode=no_loop
+pan=100
+ampeg_decay=6
+ampeg_sustain=0.001
+
+

@@ -1,0 +1,313 @@
+<group>
+ampeg_decay=3.67
+fillfo_freq=0.034
+amplfo_freq=0.034
+
+<region> sample=Samples\Akai XE8\XE8 Kick 1 int_1.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Kick 2 int_2.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Kick 3 int_3.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Snare 1 int_8.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Snare 2 int_9.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Snare 3 int_10.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Tom Low int_11.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=-69.8
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Tom High int_12.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+transpose=-4
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Tom High int_12.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=69.8
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Crash int_13.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=50
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Ride int_14.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=-50
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Crack int_16.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=-29.8
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Clap int_15.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Kick ext_1.wav
+lokey=52
+hikey=52
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Snare ext_2.wav
+lokey=53
+hikey=53
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Tom 4 ext_9.wav
+lokey=55
+hikey=55
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=-69.8
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Tom 3 ext_8.wav
+lokey=57
+hikey=57
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=-34
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Tom 2 ext_7.wav
+lokey=59
+hikey=59
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=34
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Tom 1 ext_6.wav
+key=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=69.8
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Cowbell 1 ext_12.wav
+lokey=61
+hikey=61
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Cowbell 2 ext_13.wav
+lokey=63
+hikey=63
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Block 1 ext_14.wav
+lokey=62
+hikey=62
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Block 2 ext_15.wav
+lokey=64
+hikey=64
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 ElectroTom int_4.wav
+lokey=67
+hikey=67
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+transpose=-3
+pan=-69.8
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 ElectroTom int_4.wav
+lokey=69
+hikey=69
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 ElectroTom int_4.wav
+lokey=71
+hikey=71
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+transpose=5
+pan=69.8
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Crash ext_11.wav
+lokey=72
+hikey=72
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=50
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Ride ext_10.wav
+lokey=74
+hikey=74
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=-29.8
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Orch ext_16.wav
+lokey=77
+hikey=96
+pitch_keycenter=84
+loop_mode=no_loop
+ampeg_release=2
+
+<region> sample=Samples\Akai XE8\XE8 Sidestick ext_3.wav
+lokey=76
+hikey=76
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Hat Closed int_5.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=-69.8
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Hat Medium int_6.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=-69.8
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Hat Open int_7.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=-69.8
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Hat Closed ext_4.wav
+lokey=54
+hikey=54
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=69.8
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Hat Closed ext_4.wav
+lokey=56
+hikey=56
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=69.8
+ampeg_release=0.069
+
+<region> sample=Samples\Akai XE8\XE8 Hat Open ext_5.wav
+lokey=58
+hikey=58
+pitch_keycenter=60
+loop_mode=no_loop
+pitch_keytrack=0
+pan=69.8
+ampeg_release=0.069
+
+

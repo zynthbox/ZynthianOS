@@ -1,0 +1,142 @@
+<group>
+pitch_keytrack=0
+ampeg_decay=0.07
+ampeg_release=2.6
+fillfo_freq=5.916
+amplfo_freq=5.916
+
+<region> sample=Samples\LINN9000 2\9000 KICK2.wav
+lokey=36
+hikey=36
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=4
+tune=66
+
+<region> sample=Samples\LINN9000 2\9000 STICK2.wav
+lokey=37
+hikey=37
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=4
+tune=66
+
+<region> sample=Samples\LINN9000 2\9000 SNARE2.wav
+lokey=38
+hikey=38
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=4
+tune=66
+
+<region> sample=Samples\LINN9000 2\9000 CLAP2.wav
+lokey=39
+hikey=39
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=4
+tune=66
+
+<region> sample=Samples\LINN9000 2\9000 SNARE2.wav
+lokey=40
+hikey=40
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=4
+tune=66
+
+<region> sample=Samples\LINN9000 2\9000 TOM 41.wav
+lokey=41
+hikey=41
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=1
+tune=2
+
+<region> sample=Samples\LINN9000 2\9000 CLHH2.wav
+lokey=42
+hikey=42
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=4
+tune=66
+
+<region> sample=Samples\LINN9000 2\9000 TOM 31.wav
+lokey=43
+hikey=43
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=1
+tune=2
+
+<region> sample=Samples\LINN9000 2\9000 CLHH2.wav
+lokey=44
+hikey=44
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=4
+tune=66
+
+<region> sample=Samples\LINN9000 2\9000 TOM 21.wav
+lokey=45
+hikey=45
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=1
+tune=2
+
+<region> sample=Samples\LINN9000 2\9000 OPHH3.wav
+lokey=46
+hikey=46
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=-2
+
+<region> sample=Samples\LINN9000 2\9000 TOM 21.wav
+lokey=47
+hikey=47
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=1
+tune=2
+
+<region> sample=Samples\LINN9000 2\9000 TOM 11.wav
+lokey=48
+hikey=48
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=1
+tune=2
+
+<region> sample=Samples\LINN9000 2\9000 CRASH2.wav
+lokey=49
+hikey=49
+pitch_keycenter=60
+transpose=4
+tune=66
+
+<region> sample=Samples\LINN9000 2\9000 TOM 11.wav
+lokey=50
+hikey=50
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=1
+tune=2
+
+<region> sample=Samples\LINN9000 2\9000 RIDE2.wav
+lokey=51
+hikey=51
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=1
+tune=2
+
+<region> sample=Samples\LINN9000 2\9000 TOM 21.wav
+lokey=64
+hikey=64
+pitch_keycenter=60
+loop_mode=no_loop
+transpose=1
+tune=2
+
+
