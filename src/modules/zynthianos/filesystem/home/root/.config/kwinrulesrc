@@ -1,0 +1,16 @@
+[1]
+Description=maximize
+maximizehoriz=true
+maximizehorizrule=2
+maximizevert=true
+maximizevertrule=2
+minimize=false
+minimizerule=2
+noborder=true
+noborderrule=2
+wmclass=
+wmclasscomplete=false
+wmclassmatch=0
+
+[General]
+count=1
