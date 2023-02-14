@@ -38,7 +38,7 @@ pushd /home/pi/build
         export ZYNTHIAN_CHANGE_HOSTNAME=yes
         export ZYNTHIAN_SYS_REPO=${ZYNTHIANOS_SYS_REPO}
         export ZYNTHIAN_SYS_BRANCH=${ZYNTHIANOS_SYS_REPO_BRANCH}
-        bash -x setup_system_rbpi_raspbian_lite_buster.sh
+        bash -x setup_system_rbpi_raspbian_lite_bullseye.sh
     popd
 popd
 
