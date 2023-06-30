@@ -22,13 +22,11 @@ unpack /filesystem/root /
 # Install needed packages
 apt-get -y install git 
 
-# Setup Personal Access Token to clone from private repos
-git config --global url."https://$ZYNTHIANOS_ZYNTHBOX_PAT@github.com/zynthbox".insteadOf "https://github.com/zynthbox"
-sudo -u pi git config --global url."https://$ZYNTHIANOS_ZYNTHBOX_PAT@github.com/zynthbox".insteadOf "https://github.com/zynthbox"
-
 # Prepare dirs
 sudo -u pi mkdir -p /home/pi/build
 ln -s /home/pi /zynthian
+rm -rf /usr/lib/lv2
+ln -s /usr/lib/lv2 "/zynthian/zynthian-plugins/lv2"
 
 pushd /home/pi/build
     gitclone ZYNTHIANOS_SYS_REPO zynthian-sys
