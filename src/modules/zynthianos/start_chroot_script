@@ -10,8 +10,8 @@ alias bash='bash -x'
 
 # Upgrade system before continuing
 apt-get -yy update
-apt upgrade --without-new-pkgs
-apt full-upgrade
+apt -yy upgrade --without-new-pkgs
+apt -yy full-upgrade
 
 # Source error handling, leave this in place
 source /common.sh
