@@ -11,7 +11,7 @@ alias bash='bash -x'
 # Upgrade system before continuing
 apt-get -yy update
 apt -yy upgrade --without-new-pkgs
-apt -yy full-upgrade
+apt-get --yes --force-yes dist-upgrade
 
 # Source error handling, leave this in place
 source /common.sh
