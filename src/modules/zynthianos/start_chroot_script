@@ -32,6 +32,7 @@ apt-get -y install git
 sudo -u pi mkdir -p /home/pi/build
 ln -s /home/pi /zynthian
 rm -rf /usr/lib/lv2
+mkdir -p /zynthian/zynthian-plugins/lv2
 ln -s /usr/lib/lv2 "/zynthian/zynthian-plugins/lv2"
 
 pushd /home/pi/build
@@ -42,7 +43,7 @@ pushd /home/pi/build
         export ZYNTHIAN_CHANGE_HOSTNAME=yes
         export ZYNTHIAN_SYS_REPO=${ZYNTHIANOS_SYS_REPO}
         export ZYNTHIAN_SYS_BRANCH=${ZYNTHIANOS_SYS_REPO_BRANCH}
-        bash -x setup_system_rbpi_raspbian_lite_bullseye.sh
+        bash -x setup_system_rbpi_raspbian_lite_bookworm.sh
     popd
 popd
 
