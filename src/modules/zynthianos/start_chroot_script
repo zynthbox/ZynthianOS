@@ -11,8 +11,8 @@ alias bash='bash -x'
 export DEBIAN_FRONTEND="noninteractive"
 # Upgrade system before continuing
 apt-get -yy update
-apt -yy upgrade --without-new-pkgs
-apt -yy full-upgrade
+apt -yy -o Dpkg::Options::="--force-confnew" upgrade --without-new-pkgs
+apt -yy -o Dpkg::Options::="--force-confnew" full-upgrade
 
 # Source error handling, leave this in place
 source /common.sh
