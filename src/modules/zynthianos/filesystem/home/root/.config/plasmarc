@@ -1,2 +1,5 @@
 [Theme]
 name=zynthian 
+
+[Units]
+longduration = 0
