@@ -24,7 +24,7 @@ unpack /filesystem/boot /boot
 unpack /filesystem/root /
 
 # Install needed packages
-apt-get -y install git 
+apt-get -y install git wget
 
 # Prepare dirs
 sudo -u pi mkdir -p /home/pi/build
@@ -33,14 +33,16 @@ rm -rf /usr/lib/lv2
 mkdir -p /zynthian/zynthian-plugins/lv2
 ln -s /usr/lib/lv2 "/zynthian/zynthian-plugins/lv2"
 
+# Find out zynthian repo url from source line
+zynthbox_repo_base_url=$(echo $ZYNTHIANOS_ZYNTHBOX_REPO_SOURCELINE | grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*")
+# Find out release name from source line
+zynthbox_repo_release_name=$(echo $zynthbox_repo_base_url | awk -F"/" '{print $NF}')
+# Find out latest zynthian-sys deb version from package list
+zynthian_sys_deb_version=$(curl -Ls "$zynthbox_repo_base_url/$zynthbox_repo_release_name.list" | grep zynthian-sys | head -n 1 | sed "s/ //g")
 pushd /home/pi/build
-    gitclone ZYNTHIANOS_SYS_REPO zynthian-sys
-    pushd zynthian-sys/scripts
-        export ZYNTHIAN_INCLUDE_RPI_UPDATE=no
-        export ZYNTHIAN_INCLUDE_PIP=yes
-        export ZYNTHIAN_CHANGE_HOSTNAME=yes
-        export ZYNTHIAN_SYS_REPO=${ZYNTHIANOS_SYS_REPO}
-        export ZYNTHIAN_SYS_BRANCH=${ZYNTHIANOS_SYS_REPO_BRANCH}
+    wget "$zynthbox_repo_base_url/pool/main/z/zynthian-sys/$zynthian_sys_deb_version.deb"
+    dpkg -i $zynthian_sys_deb_version.deb
+    pushd /home/pi/zynthian-sys/scripts
         bash -x setup_system_rbpi_raspbian_lite_bookworm.sh
     popd
 popd
