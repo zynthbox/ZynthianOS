@@ -36,12 +36,12 @@ ln -s /usr/lib/lv2 "/zynthian/zynthian-plugins/lv2"
 # Find out zynthian repo url from source line
 zynthbox_repo_base_url=$(echo $ZYNTHIANOS_ZYNTHBOX_REPO_SOURCELINE | grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*")
 # Find out release name from source line
-zynthbox_repo_release_name=$(echo $zynthbox_repo_base_url | awk -F"/" '{print $NF}')
-# Find out latest zynthian-sys deb version from package list
-zynthian_sys_deb_version=$(curl -Ls "$zynthbox_repo_base_url/$zynthbox_repo_release_name.list" | grep zynthian-sys | head -n 1 | sed "s/ //g")
+zynthbox_repo_debian_release_name=$(echo $ZYNTHIANOS_ZYNTHBOX_REPO_SOURCELINE | cut -d " " -f 3)
+# Find out latest zynthian-sys url version from package list
+zynthian_sys_deb_url=$(curl -Ls "$zynthbox_repo_base_url/dists/bookworm/main/binary-arm64/Packages" | grep -Pzo "Package: zynthian-sys(.|\n)*?Filename: .*\n" | grep -Pao "Filename.*" | head -n 1 | sed "s/Filename: //") # 1. Get list of packages in repo 2. Filter out zynthian-sys packages and it's filenames 3. Get only the filenames 4. Get top most filename 5. Filter the file url
 pushd /home/pi/build
-    wget "$zynthbox_repo_base_url/pool/main/z/zynthian-sys/$zynthian_sys_deb_version.deb"
-    dpkg -i $zynthian_sys_deb_version.deb
+    wget "$zynthbox_repo_base_url/$zynthian_sys_deb_url"
+    dpkg -i zynthian-sys*.deb
     pushd /home/pi/zynthian-sys/scripts
         bash -x setup_system_rbpi_raspbian_lite_bookworm.sh
     popd
