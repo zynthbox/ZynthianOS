@@ -1,3 +1,6 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
 [1]
 Description=maximize
 maximizehoriz=true
@@ -14,3 +17,4 @@ wmclassmatch=0
 
 [General]
 count=1
+rules=1
