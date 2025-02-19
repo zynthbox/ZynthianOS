@@ -51,9 +51,6 @@ popd
 rm -rf /home/pi/build
 rm -f /home/pi/README
 
-# Copy Soundfonts
-unpack /filesystem/soundfonts /zynthian/zynthian-data/soundfonts
-
 # Make root password raspberry
 echo root:raspberry | chpasswd
 
